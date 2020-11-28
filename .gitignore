@@ -1,0 +1,4 @@
+venv_active_airport
+*.pyc
+.env
+.DS_Store
