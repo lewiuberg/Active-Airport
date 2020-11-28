@@ -2,9 +2,9 @@
 
 Dashboard for exploring Norwegian airport traffic.
 
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/1.png)
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/2.png)
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/3.png)
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/4.png)
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/5.png)
-![pdf](https://github.com/lewiuberg/mura/blob/main/Pages/6.png)
+[Link to dashboard deployed with Heroku](https://active-airport.herokuapp.com)
+
+![pdf](https://github.com/lewiuberg/Active-Airport/blob/main/Dashboard/1.png)
+![pdf](https://github.com/lewiuberg/Active-Airport/blob/main/Dashboard/2.png)
+![pdf](https://github.com/lewiuberg/Active-Airport/blob/main/Dashboard/3.png)
+![pdf](https://github.com/lewiuberg/Active-Airport/blob/main/Dashboard/4.png)
