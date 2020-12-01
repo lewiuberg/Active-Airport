@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.Active-Airport)
+
 # Active Airport
 
 Dashboard for exploring Norwegian airport traffic.
